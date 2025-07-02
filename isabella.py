@@ -79,7 +79,6 @@ def takeCmd():
          #print(e) 
          #speak("Say again..")
 
-         #speak("Say thet again daddy please.....")
         # return "None"     
 
 
