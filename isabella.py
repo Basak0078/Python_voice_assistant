@@ -114,9 +114,6 @@ if __name__=="__main__":
          speak("taking screenshot...")
          ss()
 
-      elif "Love u.."==query and "love you.."==query :
-         speak("Love you tooo...")
-
       #elif "play a song"==query:
         # speak("which song..")
         # if q==query:
